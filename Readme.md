@@ -21,7 +21,7 @@ client.on("ready", async () => {
         status: "online",
         activities: [
             {
-                name: "with discord.js v13",
+                name: "discord.js v13",
                 type: "PLAYING"
             }
         ]
