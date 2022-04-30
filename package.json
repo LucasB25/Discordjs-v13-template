@@ -1,0 +1,28 @@
+{
+  "name": "discordjs-v13-template",
+  "version": "1.0.0",
+  "description": "A simple discord.js v13 template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasB25/Discordjs-v13-template.git"
+  },
+  "keywords": [
+    "Discord",
+    "v13",
+    "discord.js",
+    "template"
+  ],
+  "author": "LucasB25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasB25/Discordjs-v13-template/issues"
+  },
+  "homepage": "https://github.com/LucasB25/Discordjs-v13-template#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
