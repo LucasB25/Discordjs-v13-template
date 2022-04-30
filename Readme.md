@@ -1,9 +1,5 @@
 # Currently not finished
 
-# Discord.js v13 Template
-
-A simple discord.js v13 template
-
 # Installation
 
 **Node.js 14.6.0 or newer is required.**
@@ -38,20 +34,7 @@ client.on("ready", async () => {
 client.login("your bot token here");
 ```
 
-# Application Command Option Type
-
-NAME	VALUE	NOTE
-SUB_COMMAND	1	
-SUB_COMMAND_GROUP	2	
-STRING	3	
-INTEGER	4	Any integer between -2^53 and 2^53
-BOOLEAN	5	
-USER	6	
-CHANNEL	7	Includes all channel types + categories
-ROLE	8	
-MENTIONABLE	9	Includes users and roles
-NUMBER	10	Any double between -2^53 and 2^53
-ATTACHMENT	11	attachment object
-
 ## Application Command Option Type:
-(link)[https://discord.com/developers/docs/interactions/application-commands#application-command-object-application-command-option-type]
+
+![image](https://user-images.githubusercontent.com/50886682/166117079-b780761d-f7a8-4266-a431-73e3e74f6c06.png)
+
