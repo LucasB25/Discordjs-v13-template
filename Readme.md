@@ -5,7 +5,7 @@
 **Node.js 14.6.0 or newer is required.**
 
 ```js
-npm install discord.js
+npm i
 ```
 
 
