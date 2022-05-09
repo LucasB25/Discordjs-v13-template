@@ -8,16 +8,16 @@
 npm i
 ```
 
-**Executed every time slash command is added and removed.**
-
-```js
-node slash
-```
-
 **To start the Bot.**
 
 ```js
 npm index
+```
+
+**Executed every time slash command is added and removed.**
+
+```js
+node slash
 ```
 
 # More Examples
