@@ -2,12 +2,23 @@
 
 # Installation
 
-**Node.js 14.6.0 or newer is required.**
+**Node.js 16+ or newer is required.**
 
 ```js
 npm i
 ```
 
+**Executed every time slash command is added and removed.**
+
+```js
+node slash
+```
+
+**To start the Bot.**
+
+```js
+npm index
+```
 
 # More Examples
 
