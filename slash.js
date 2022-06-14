@@ -17,7 +17,7 @@ const rest = new REST({ version: "9" }).setToken(config.token);
 		console.log('[Discord API] Started refreshing application (/) commands.');
 		await rest.put(
             // GUILD SLASH COMMANDS
-			//Routes.applicationGuildCommands(config.botID, 'ID_OF_THE_GUILD'),
+			//Routes.applicationGuildCommands(config.botID, config.privateServerID),
 
             // GLOBAL SLASH COMMANDS
 			Routes.applicationCommands(config.botID),
