@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/LucasB25/Discordjs-v13-template#readme",
   "dependencies": {
-    "discord.js": "^13.6.0",
+    "discord.js": "^14.0.0",
     "@discordjs/rest": "^0.5.0"
   }
 }
